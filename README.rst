@@ -261,7 +261,7 @@ Icons
 
 * `flaticon <https://www.flaticon.com/>`_
 * `Icônes <https://icones.js.org/>`_
-* `Tech Icons <https://techicons.dev/icons/sqlite>`_
+* `Tech Icons <https://techicons.dev/>`_
 
 Search Unicodes
 
